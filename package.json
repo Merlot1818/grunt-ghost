@@ -1,0 +1,27 @@
+{
+  "name": "grunt-ghost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Merlot1818/grunt-ghost.git"
+  },
+  "author": "merlot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Merlot1818/grunt-ghost/issues"
+  },
+  "homepage": "https://github.com/Merlot1818/grunt-ghost#readme",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-compress": "^1.4.3",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
